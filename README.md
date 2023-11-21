@@ -1,5 +1,7 @@
 # Python DevOps Sets Dictionary
 
+# Sets
+
 A set in Python is an unordered collection of unique elements. It is useful for mathematical operations like union, intersection, and difference.
 
 #### Creating a Set:
@@ -58,7 +60,8 @@ print(f"{server_name} status: {status}")
 
 ---
 
-## Overview:
+# Dictionary:
+
 A dictionary in Python is a data structure that allows you to store and retrieve values using keys. It is also known as a hashmap or associative array in other programming languages. Dictionaries are implemented as hash tables, providing fast access to values based on their keys.
 
 ## Creating a Dictionary:
