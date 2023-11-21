@@ -43,3 +43,9 @@ server_config = {
     'server3': {'ip': '192.168.1.3', 'port': 9000, 'status': 'active'}
 }
 ```
+
+##### Function for Retrieval:
+```python
+def get_server_status(server_name):
+    return server_config.get(server_name, {}).get('status', 'Server not found')
+```
