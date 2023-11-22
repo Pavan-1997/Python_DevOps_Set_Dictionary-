@@ -1,7 +1,7 @@
 # Python DevOps Sets Dictionary
    
 # Sets      
-  
+   
 A set in Python is an unordered collection of unique elements. It is useful for mathematical operations like union, intersection, and difference.
 
 #### Creating a Set:
